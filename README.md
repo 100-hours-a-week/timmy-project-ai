@@ -5,7 +5,11 @@
 by Timmy.park (박정민)
 
 ---
+## google colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1st7x-39ldZZ2qzJertO91yxsQL0TQszG?usp=sharing)
+
+---
 ## 프로젝트 개요
 
 이 프로젝트는 다섯 가지 쌀 품종(Arborio, Basmati, Ipsala, Jasmine, Karacadag)의 이미지를 기반으로 CNN을 활용하여 품종을 분류하는 이미지 분류 모델을 학습하고 평가한 것입니다.  
